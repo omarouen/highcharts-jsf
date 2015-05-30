@@ -1,0 +1,1 @@
+JSF composite components which represent charts from the Highcharts library.
